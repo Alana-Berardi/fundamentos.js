@@ -7,10 +7,10 @@ const cliente = {
 
 cliente.endereco = [
 {
-    rua: "R. Dr. Orlando Araujo Costa",
-    numero: 1931,
+    rua: "R. Osvaldo Aranha",
+    numero: 611,
     apartamento: true,
-    complemento: "ap 934",
+    complemento: "casa",
 },
 ];
 
